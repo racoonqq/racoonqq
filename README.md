@@ -1,7 +1,6 @@
+##Languages & Tools
 <div style='display : flex'>
-<img width='45px' src='https://cdn-icons-png.flaticon.com/512/5243/5243360.png' />
-<img width='45px' src='https://cdn-icons-png.flaticon.com/512/5241/5241009.png' />
-<img width='45px' src='https://cdn-icons-png.flaticon.com/512/5243/5243357.png' />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ky%2C+this+is+racoonqq+profile" alt="Typing SVG" /></a>
 </div>
   <!-- 
 **racoonqq/racoonqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
