@@ -1,6 +1,6 @@
 
 <code><img width='10%' height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code><img width='10%' height='auto' src="https://img.icons8.com/?size=512&amp;id=108784&amp;format=png"></code>
+<code><img width='10%' height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <!--
 **racoonqq/racoonqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
