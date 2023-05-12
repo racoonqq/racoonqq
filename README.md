@@ -1,5 +1,5 @@
-#![](https://cdn-icons-png.flaticon.com/512/5243/5243360.png)
-##![](https://cdn-icons-png.flaticon.com/512/5243/5243360.png)
+[<img width="20px" src="https://cdn-icons-png.flaticon.com/512/5243/5243360.png" />]
+![](https://cdn-icons-png.flaticon.com/512/5243/5243360.png)
 <!--
 **racoonqq/racoonqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
