@@ -4,7 +4,8 @@
 
 ---
 
-## Languages :
+## Languages & Tools 👨‍💻:
+<img src="https://camo.githubusercontent.com/b78076513effbbdc29d4bb60051c748ae9c8fa88e6503e446074fb19abb29011/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" />
 
 <!-- **racoonqq/racoonqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
