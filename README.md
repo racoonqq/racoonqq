@@ -1,8 +1,8 @@
-<br>
+<div style='display : flex'>
 <img width="45px" src="https://cdn-icons-png.flaticon.com/512/5243/5243360.png" />
 <img width="45px" src="https://cdn-icons-png.flaticon.com/512/5243/5241009.png" />
-</br>
-<!-- 
+</div>
+  <!-- 
 **racoonqq/racoonqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
