@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <code><img width='10%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </code>
